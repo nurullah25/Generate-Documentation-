@@ -1,5 +1,4 @@
-# Generate-Documentation-
-# AERP DocGen
+# CORE DocGen
 
 A Streamlit app that generates ERP documentation PDFs from form input, with attachments support.
 
